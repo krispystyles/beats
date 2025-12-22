@@ -1,2 +1,2 @@
-# beats
+# lyrics
 krispy styles music
